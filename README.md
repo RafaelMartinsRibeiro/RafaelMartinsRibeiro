@@ -22,7 +22,7 @@
 `Fullstack Developer Node/React`
 <br>
 
-**🎓 Studying Software Engineering at <a href="https://unicesumar.edu.br">UniCesumar</a>.**
+**🎓 Studying Software Engineering at <a href="www.unicesumar.edu.br">UniCesumar</a>.**
 
 
 ## 💻 **Programming Languages and Frameworks**
