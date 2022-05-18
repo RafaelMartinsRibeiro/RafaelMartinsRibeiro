@@ -48,7 +48,7 @@
 
 ## 📊 **My status on Github**
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelMartinsRibeiro&show_icons=true&theme=ocean_dark&count_private=true&hide_border=true&locale=pt-br"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelMartinsRibeiro&show_icons=true&theme=ocean_dark&count_private=true&hide_border=true&locale=pt-br"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMartinsRibeiro&layout=compact&langs_count=6&theme=ocean_dark&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMartinsRibeiro&layout=compact&langs_count=6&theme=ocean_dark&hide_border=true"/>
 </div>
