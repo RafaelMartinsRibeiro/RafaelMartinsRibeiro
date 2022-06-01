@@ -2,8 +2,8 @@
 
 ## Hi, my name is **Rafael** !👋😃
 <p align="left">
-  <a href="https://www.linkedin.com/..">
-    <img src="https://img.shields.io/badge/-RafaelMartins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/..." />
+  <a href="https://www.linkedin.com/in/rafael-martins-ribeiro/">
+    <img src="https://img.shields.io/badge/-RafaelMartins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-martins-ribeiro/" />
   </a>
   <a href="mailto:rafaelmartins1964@hotmail.com">
     <img src="https://img.shields.io/badge/-rafaelmartins1964@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelmartins1964@hotmail.com"/>
