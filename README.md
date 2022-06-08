@@ -19,7 +19,7 @@
 
 `Software Engineering Student`
 <br>
-`Fullstack Developer Node/React`
+`Front-end Developer React`
 <br>
 
 **🎓 Studying Software Engineering at <a href="https://www.unicesumar.edu.br">UniCesumar</a>.**
