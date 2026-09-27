@@ -1,57 +1,123 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<div align="center">
 
-## Hi, my name is **Rafael** !👋😃
-<p align="left">
-  <a href="https://www.linkedin.com/in/rafael-martins-ribeiro/">
-    <img src="https://img.shields.io/badge/-RafaelMartins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-martins-ribeiro/" />
-  </a>
-  <a href="mailto:rafaelmartins1964@hotmail.com">
-    <img src="https://img.shields.io/badge/-rafaelmartins1964@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelmartins1964@hotmail.com"/>
-  </a>
-  <a href="https://www.instagram.com/raff.martinsr/">
-    <img src="https://img.shields.io/badge/-raff.martinsr-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/raff.martinsr/" />
-  </a>
-  <a href="https://github.com/RafaelMartinsRibeiro/?tab=follow">
-    <img src="https://img.shields.io/github/followers/RafaelMartinsRibeiro?label=Follow&style=social" />
-  </a>
+# Rafael Battain
+
+### Founder & CEO @ Reach & Result · Entrepreneur & Software Engineer
+
+**Business, branding, technology & products.**
+
+I build companies, brands and digital products by connecting  
+**strategy, creativity, marketing and technology.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/rafaelbattain/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Battain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/rafaelbattain/">
+  <img src="https://img.shields.io/badge/Instagram-@rafaelbattain-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/company/reachresult/">
+  <img src="https://img.shields.io/badge/Reach%20%26%20Result-Company-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 👋 About me
+
+I'm **Rafael Battain**, a Brazilian entrepreneur and Software Engineer.
+
+I'm the **Founder & CEO of [Reach & Result](https://www.linkedin.com/company/reachresult/)**, a company focused on **Strategic Branding and 360° Marketing**, helping businesses strengthen their positioning and turn attention into growth.
+
+My career started much closer to code.
+
+I graduated in **Software Engineering at UniCesumar** and spent years working with web development, interfaces and software products. As my career evolved, I moved deeper into business, branding, marketing and entrepreneurship — but I never stopped being a builder.
+
+Today, I like operating where these worlds meet:
+
+> **Business × Branding × Technology × Product**
+
+I still code, prototype ideas, experiment with AI, build digital products and use technology as a tool to solve business problems.
+
+---
+
+## 🚀 What I'm focused on
+
+- **Entrepreneurship & Company Building**
+- **Strategic Branding**
+- **Marketing & Growth**
+- **Digital Products**
+- **Software & Product Development**
+- **Artificial Intelligence & Automation**
+- **Business Strategy**
+
+---
+
+## 🏢 Reach & Result
+
+I'm currently building **Reach & Result**, a strategic branding and marketing company.
+
+We work at the intersection of:
+
+`Brand Strategy` · `Positioning` · `Creative` · `Content` · `Performance` · `Technology`
+
+The goal is simple:
+
+### Build stronger brands and transform attention into business results.
+
+<br>
+
+<a href="https://www.linkedin.com/company/reachresult/">
+  <img src="https://img.shields.io/badge/KNOW%20REACH%20%26%20RESULT-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
+## 💻 Builder at heart
+
+Even though my day-to-day work today is much more focused on business and strategy, software engineering is still part of how I think.
+
+I enjoy turning ideas into real products — from the first concept and business model to the interface, architecture and code.
+
+### Technologies I've worked with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,html,css,tailwind,sass,docker,git,github,vscode" />
 </p>
 
+### Also experienced with
 
-`Software Engineering Student`
+<p>
+  <img src="https://skillicons.dev/icons?i=rxjs,cypress,sqlite,npm" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI--assisted%20Development-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+<div align="center">
+
+### Business mind. Engineer's brain. Builder's mentality.
+
+I build companies, brands and products at the intersection of  
+**business, creativity and technology.**
+
 <br>
-`Front-end Developer React`
-<br>
 
-**🎓 Studying Software Engineering at <a href="https://www.unicesumar.edu.br">UniCesumar</a>.**
+<a href="https://www.linkedin.com/in/rafaelbattain/">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.instagram.com/rafaelbattain/">Instagram</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/reachresult/">Reach & Result</a>
 
+<br><br>
 
-## 💻 **Programming Languages and Frameworks**
+**Always building something.**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-purple.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-## 💼 **Tools**
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-## 📚 **Learning**
-
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
-## 📊 **My status on Github**
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelMartinsRibeiro&show_icons=true&theme=ocean_dark&count_private=true&hide_border=true&locale=pt-br"/>
-    
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMartinsRibeiro&layout=compact&langs_count=6&theme=ocean_dark&hide_border=true"/>
 </div>
